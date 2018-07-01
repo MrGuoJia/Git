@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         initView();/*不要在我这里写东西*/
         Toast.makeText(this,"",Toast.LENGTH_LONG).show();
         Toast.makeText(this,"2",Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"3",Toast.LENGTH_LONG).show();
     }
 
     private void initView() {
